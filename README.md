@@ -10,3 +10,6 @@
 
 ## Resolution:
 2048 (Default: Can be changed by DIP)
+
+## OUTPUT:
+JSON
